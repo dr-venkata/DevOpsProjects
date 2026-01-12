@@ -1,5 +1,3 @@
-# DevOps/Cloud Projects For Learning by DevCloud Ninjas Tech Community ♐
-##### test-branch
 ![DevOps-Projects](https://imgur.com/qimdPIU.png)
 
 ## Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]
@@ -79,8 +77,7 @@ _*Welcome to the ultimate resource for **learning DevOps through hands-on projec
 > [!IMPORTANT]
 > We encourage you to be an active part of our community:
 >
-> - **Join Our Telegram Community:** Connect with fellow DevOps enthusiasts, ask questions, and share your progress in our [Telegram group](https://t.me/devcloudninjas).
-> - **Follow Me on GitHub:** Stay updated with new projects and content by [following me on GitHub](https://github.com/devcloudninjas).
+
 
 ## Hit the Star! ⭐
 
@@ -88,7 +85,6 @@ _*Welcome to the ultimate resource for **learning DevOps through hands-on projec
 
 ### Author
 
-![Author Image](https://imgur.com/ZdiaMeo.gif)
 
 
 **You Want To Become A DevOps Engineer ?**
